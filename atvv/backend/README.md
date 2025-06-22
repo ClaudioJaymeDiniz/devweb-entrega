@@ -3,11 +3,13 @@
 No terminal após clonar e identificar a pasta do projeto, utilize os seguintes comandos:
 
 1.
+```
 python -m venv .venv
 # No Windows:
 .\.venv\Scripts\activate
 # No macOS/Linux:
-source ./.venv/bin/activate
+source ./.venv/bin/activate 
+```
 
 2. pip install -r requirements.txt
 3. uvicorn main:app --reload
