@@ -8,7 +8,7 @@
     "start": "node js/teste/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "[Seu Nome/Matrícula]",
+  "author": "Claudio Jayme",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^17.0.21",
