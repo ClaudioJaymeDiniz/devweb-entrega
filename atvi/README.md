@@ -17,7 +17,7 @@ Siga os passos abaixo no seu terminal, começando pelo diretório raiz do projet
 
 1.  **Clone o Repositório** (Se ainda não o fez):
     ```bash
-    git clone [https://github.com/ClaudioJaymeDiniz/devweb-entrega.git]
+    git clone https://github.com/ClaudioJaymeDiniz/devweb-entrega.git
     cd devweb-entrega/atvi
     ```
 2.  **Instale as Dependências:**
