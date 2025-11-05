@@ -1,12 +1,14 @@
 {
   "name": "atvi-atlantis",
   "version": "1.0.0",
-  "description": "",
+  "description": "Atividade da faculdade sobre [TEMA, ex: Programação Orientada a Objetos].",
   "main": "js/teste/index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "node js/teste/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "[Seu Nome/Matrícula]",
   "license": "ISC",
   "dependencies": {
     "@types/node": "^17.0.21",
