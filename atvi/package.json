@@ -1,7 +1,7 @@
 {
   "name": "atvi-atlantis",
   "version": "1.0.0",
-  "description": "Atividade da faculdade sobre [TEMA, ex: Programação Orientada a Objetos].",
+  "description": "Atividade 1",
   "main": "js/teste/index.js",
   "scripts": {
     "build": "tsc",
